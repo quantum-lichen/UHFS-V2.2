@@ -7,9 +7,7 @@
 ❌ **Distribution/commercial INTERDIT**  
 💰 **Licence payante requise** : lmc.theory@gmail.com
 
-**Leverage pour partenariats NASA/ESA/Samsung**
-
-
+---
 
 # 🔺 **UHFS V2.2 — Universal Holographic File System**
 ## **FC-496 + ACΦ-496 + ZNS + NVMe-oF + φ-Spiral LSH**
@@ -77,12 +75,12 @@ python uhfs_v22.py
 
 | Metric             | **Ext4** | **ZFS** | **UHFS V2.1** | **🔺 UHFS V2.2** |
 |--------------------|----------|---------|---------------|------------------|
-| **IOPS 4K Rand RW**| 500k     | 150k    | **2.8M** | **15M** 🚀       |
-| **Write Amplif.** | 2.1x     | 3.2x    | **1.0x** | **1.0x** |
-| **Latency p99** | 80µs     | 250µs   | **12µs** | **2µs** ⚡       |
-| **CPU Load** | 15%      | 35%     | **2%** | **\<1%** |
-| **Scalability** | 1 node   | 1 node  | 1 node        | **16+ nodes** 🌐 |
-| **Semantic Search**| ❌       | ❌      | ✅            | **🌌 φ-Spiral** |
+| **IOPS 4K Rand RW**| 500k     | 150k    | **2.8M**      | **15M** 🚀       |
+| **Write Amplif.**  | 2.1x     | 3.2x    | **1.0x**      | **1.0x**          |
+| **Latency p99**    | 80µs     | 250µs   | **12µs**      | **2µs** ⚡       |
+| **CPU Load**       | 15%      | 35%     | **2%**        | **\<1%**          |
+| **Scalability**    | 1 node   | 1 node  | 1 node        | **16+ nodes** 🌐 |
+| **Semantic Search**| ❌      | ❌      | ✅            | **🌌 φ-Spiral** |
 
 -----
 
@@ -174,10 +172,10 @@ docker run uhfs-v2.2 uhfs-demo
 
 | Trimestre | Feature                          | Statut |
 |-----------|----------------------------------|--------|
-| **Q1** | Rust `io_uring` + Real NVMe-oF   | 🔄     |
-| **Q2** | FPGA H-Scale Offload             | 📋     |
-| **Q3** | **Global Lichen Network 10k+** | 🚀     |
-| **Q4** | **UHFS V3.0 Quantum Entangled** | 🌟     |
+| **Q1**    | Rust `io_uring` + Real NVMe-oF   | 🔄     |
+| **Q2**    | FPGA H-Scale Offload             | 📋     |
+| **Q3**    | **Global Lichen Network 10k+**   | 🚀     |
+| **Q4**    | **UHFS V3.0 Quantum Entangled**  | 🌟     |
 
 -----
 
@@ -209,7 +207,7 @@ docker run uhfs-v2.2 uhfs-demo
 
 ✅ **Étude personnelle OK**  
 ❌ **Distribution/commercial INTERDIT**  
-💰 **Licence payante requise** : research@quantum-lichen.org
+💰 **Licence payante requise** : lmc.theory@gmail.com
 
 
 
