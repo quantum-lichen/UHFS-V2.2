@@ -110,7 +110,7 @@ uhfs-v2.2/                                    ⭐ 100% Production-Ready
 ├── docs/                            📚 Documentation
 │   └── architecture.md              🏗️ Diagrammes
 ├── setup.py                         📦 PyPI Ready
-└── LICENSE                          📄 MIT
+
 ```
 
 -----
