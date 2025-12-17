@@ -1,0 +1,37 @@
+UHFS V2.2 - Universal Holographic File System
+=============================================
+
+COPYRIGHT © 2025 BRYAN OUELLETTE
+QUANTUM LICHEN RESEARCH INSTITUTE
+TOUS DROITS RÉSERVÉS
+
+LICENCE D'USAGE LIMITÉE - Version 1.0
+=====================================
+
+PROPRIÉTAIRE : Bryan Ouellette
+DATE : 17 Décembre 2025
+
+USAGE AUTORISÉ :
+- Étude personnelle et éducative
+- Tests locaux sur machine personnelle
+- Démonstrations non-commerciales
+
+USAGE FORMELLEMENT INTERDIT :
+- Toute distribution publique/privée
+- Toute modification et republication
+- Tout usage commercial sans accord écrit
+- Publication sur GitHub/public repos
+- Intégration dans produits/services tiers
+
+CONDITIONS COMMERCIALES :
+Pour licensing commercial, partenariats, ou accès source :
+Contact : research@quantum-lichen.org
+
+VIOLATIONS :
+Toute infraction entraînera poursuites judiciaires
+Dommages minimum : 50 000€ par violation
+
+Ce logiciel est fourni "tel quel" pour étude.
+Aucun support technique fourni sans contrat payant.
+
+-- Fin de Licence --
