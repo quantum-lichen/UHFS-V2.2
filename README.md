@@ -179,13 +179,6 @@ docker run uhfs-v2.2 uhfs-demo
 
 -----
 
-## 🤝 **Contribuer**
-
-1.  Fork le repo
-2.  Créer ta feature branch (`git checkout -b feature/amazing`)
-3.  Commit tes changements (`git commit -m 'Add amazing feature'`)
-4.  Push vers la branch (`git push origin feature/amazing`)
-5.  Ouvre un Pull Request \!
 
 **Issues bienvenues:** [Créer une issue](https://github.com/quantum-lichen/uhfs-v2.2/issues/new)
 
