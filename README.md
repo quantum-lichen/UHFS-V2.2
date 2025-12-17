@@ -20,7 +20,7 @@ For **50 years**, we've accepted broken systems:
 - ❌ **GIGABYTES of RAM** for metadata
 - ❌ **Thermal THROTTLING** after 2 minutes
 
-**UHFS V2.0 fixes ALL of this.**
+**UHFS V2.2 fixes ALL of this.**
 
 ---
 
